@@ -1,4 +1,11 @@
-This is my fork of https://bitbucket.org/fabian/django-taggit-autosuggest
+A Select2-based autosuggester for Django and django-taggit.
+
+Forked from https://github.com/jjmalina/django-taggit-autosuggest-select2
+which was based on https://bitbucket.org/fabian/django-taggit-autosuggest
+
+This uses Select2 v3, which is now deprecated.
+
+# Original README
 
 Instead of using jQuery autosuggest, this widget uses [Select2](http://ivaynberg.github.com/select2/).
 
